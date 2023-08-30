@@ -636,5 +636,60 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=t_5Ae9mTLAU",
     "img" : "https://i.ytimg.com/vi/t_5Ae9mTLAU/hqdefault.jpg"
+  },
+  "2023-08-30-001" : {
+    "nome" : "Inovação e estratégias com Leandro Ferreira, da MOV Locadora - HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-30",
+    "duracao" : 22,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=Kq7r-9q9gTg",
+    "img" : "https://i.ytimg.com/vi/Kq7r-9q9gTg/hqdefault.jpg"
+  },
+  "2023-08-30-002" : {
+    "nome" : "Como a Inovação está moldando o mundo em que vivemos? — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-30",
+    "duracao" : 34,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=K9-l0YF-TjA",
+    "img" : "https://i.ytimg.com/vi/K9-l0YF-TjA/hqdefault.jpg"
+  },
+  "2023-08-30-003" : {
+    "nome" : "Será que marcas consolidadas ainda têm o poder de inovar? Descubra Aqui! — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-30",
+    "duracao" : 25,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=QmROpLGCim4",
+    "img" : "https://i.ytimg.com/vi/QmROpLGCim4/hqdefault.jpg"
+  },
+  "2023-08-30-004" : {
+    "nome" : "Como o ChatGPT e outras ferramentas de IA auxiliam nos processos de inovação? - HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-30",
+    "duracao" : 34,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=cFvjPbTyMes",
+    "img" : "https://i.ytimg.com/vi/cFvjPbTyMes/hqdefault.jpg"
+  },
+  "2023-08-30-005" : {
+    "nome" : "Como Nathalia Arcuri ajudou milhares de pessoas com educação financeira? HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-30",
+    "duracao" : 32,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=wQ7sv6Nfekc",
+    "img" : "https://i.ytimg.com/vi/wQ7sv6Nfekc/hqdefault.jpg"
   }
 };
