@@ -592,5 +592,49 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=G8nn_7l_SzU",
     "img" : "https://i.ytimg.com/vi/G8nn_7l_SzU/hqdefault.jpg"
+  },
+  "2023-08-25-001" : {
+    "nome" : "🔥TrenDs News🚀 #94",
+    "produtoras" : ["🚀 TrenDs News 🔥"],
+    "programa" : "🚀 TrenDs News 🔥",
+    "formato" : "vídeo",
+    "data" : "2023-08-25",
+    "duracao" : 66,
+    "plataformas" : ["YouTube","Spotify"],
+    "link" : "https://www.youtube.com/watch?v=JE2Wj4fWpio",
+    "img" : "https://i.ytimg.com/vi/JE2Wj4fWpio/hqdefault.jpg"
+  },
+  "2023-08-29-001" : {
+    "nome" : "Revolucione sua vida e carreira: Seja fora da caixa e tenha um propósito vital! — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-29",
+    "duracao" : 28,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=bMQ_2Uu7s28",
+    "img" : "https://i.ytimg.com/vi/bMQ_2Uu7s28/hqdefault.jpg"
+  },
+  "2023-08-29-002" : {
+    "nome" : "Descubra as novidades de inovação com a Ambev no HackTown 2023!",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-29",
+    "duracao" : 28,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=UG32UNHSwO0",
+    "img" : "https://i.ytimg.com/vi/UG32UNHSwO0/hqdefault.jpg"
+  },
+  "2023-08-29-003" : {
+    "nome" : "Como o autocontrole pode mudar o seu comportamento no mundo profissional? — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-29",
+    "duracao" : 26,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=t_5Ae9mTLAU",
+    "img" : "https://i.ytimg.com/vi/t_5Ae9mTLAU/hqdefault.jpg"
   }
 };
