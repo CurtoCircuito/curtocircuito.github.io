@@ -500,10 +500,10 @@ episodios = {
     "programa" : "Hacktalks em 15 minutos",
     "formato" : "vídeo",
     "data" : "2023-08-20",
-    "duracao" : 15,
+    "duracao" : 16,
     "plataformas" : ["YouTube"],
-    "link" : "https://www.youtube.com/watch?v=lfyKgzfZmCA",
-    "img" : "https://img.youtube.com/vi/lfyKgzfZmCA/maxresdefault.jpg"
+    "link" : "https://www.youtube.com/watch?v=zMKhofbfPcs",
+    "img" : "https://i.ytimg.com/vi/zMKhofbfPcs/hqdefault.jpg"
   },
   "2023-08-20-002" : {
     "nome" : "Hacktalks em 15 minutos com Giovanni Bassi, direto do Hacktown 2023",
@@ -670,17 +670,6 @@ episodios = {
     "link" : "https://www.youtube.com/watch?v=QmROpLGCim4",
     "img" : "https://i.ytimg.com/vi/QmROpLGCim4/hqdefault.jpg"
   },
-  "2023-08-30-004" : {
-    "nome" : "Como o ChatGPT e outras ferramentas de IA auxiliam nos processos de inovação? - HackTown 2023",
-    "produtoras" : ["Monking","Claro"],
-    "programa" : "Monking no HackTown",
-    "formato" : "vídeo",
-    "data" : "2023-08-30",
-    "duracao" : 34,
-    "plataformas" : ["YouTube"],
-    "link" : "https://www.youtube.com/watch?v=cFvjPbTyMes",
-    "img" : "https://i.ytimg.com/vi/cFvjPbTyMes/hqdefault.jpg"
-  },
   "2023-08-30-005" : {
     "nome" : "Como Nathalia Arcuri ajudou milhares de pessoas com educação financeira? HackTown 2023",
     "produtoras" : ["Monking","Claro"],
@@ -691,5 +680,148 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=wQ7sv6Nfekc",
     "img" : "https://i.ytimg.com/vi/wQ7sv6Nfekc/hqdefault.jpg"
+  },
+    "2023-08-31-001" : {
+    "nome" : "Como o ChatGPT e outras ferramentas de IA auxiliam nos processos de inovação? - HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-31",
+    "duracao" : 34,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=z5nAdjfJJCY",
+    "img" : "https://img.youtube.com/vi/z5nAdjfJJCY/maxresdefault.jpg"
+  },
+  "2023-08-31-002" : {
+    "nome" : "IA, computação quântica e tecnologias emergentes no processo de inovação - HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-31",
+    "duracao" : 23,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=E3dOtniZJW0",
+    "img" : "https://img.youtube.com/vi/E3dOtniZJW0/maxresdefault.jpg"
+  },
+  "2023-08-31-003" : {
+    "nome" : "Todo empreendedor que deseja ter sucesso precisa assistir a esse vídeo! — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-31",
+    "duracao" : 24,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=rff0bVpj2u0",
+    "img" : "https://img.youtube.com/vi/rff0bVpj2u0/maxresdefault.jpg"
+  },
+  "2023-08-31-004" : {
+    "nome" : "O que esperar do futuro do marketing e da tecnologia no Brasil? - HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-08-31",
+    "duracao" : 26,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=y60JVhC5AdA",
+    "img" : "https://img.youtube.com/vi/y60JVhC5AdA/maxresdefault.jpg"
+  },
+  "2023-09-01-001" : {
+    "nome" : "Hacktown 2023, uma Jornada de inovação e conexão humana!",
+    "produtoras" : ["Mind Station"],
+    "programa" : "Mind Station",
+    "formato" : "vídeo",
+    "data" : "2023-09-01",
+    "duracao" : 8,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=Ie7y_ppmb98",
+    "img" : "https://i.ytimg.com/vi/Ie7y_ppmb98/hqdefault.jpg"
+  },
+  "2023-09-02-001" : {
+    "nome" : " #003 - Insights & Reflexões do Hack Town 2023 ",
+    "produtoras" : ["Hyper Island"],
+    "programa" : "Hyper Vision Podcast",
+    "formato" : "vídeo",
+    "data" : "2023-09-02",
+    "duracao" : 48,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=zyh9MfLSJaA",
+    "img" : "https://i.ytimg.com/vi/zyh9MfLSJaA/hqdefault.jpg"
+  },
+  "2023-09-04-001" : {
+    "nome" : "HackTown 2023: Inovações que vão mudar o mundo!",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 38,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=C1pKCv3K0EU",
+    "img" : "https://img.youtube.com/vi/C1pKCv3K0EU/maxresdefault.jpg"
+  },
+  "2023-09-04-002" : {
+    "nome" : "Esse papo vai mudar a sua visão sobre o mundo! — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 32,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=azPnKI0EojE",
+    "img" : "https://img.youtube.com/vi/azPnKI0EojE/maxresdefault.jpg"
+  },
+  "2023-09-04-003" : {
+    "nome" : "Segredos e estratégias de segurança da informação no HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 26,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=QVgQn6TN3hQ",
+    "img" : "https://img.youtube.com/vi/QVgQn6TN3hQ/maxresdefault.jpg"
+  },
+  "2023-09-04-004" : {
+    "nome" : "Como a Claro está inovando o setor financeiro? - HackTown 2023 com Maurício Santos",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 18,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=RelCyrOF-wk",
+    "img" : "https://img.youtube.com/vi/RelCyrOF-wk/maxresdefault.jpg"
+  },
+  "2023-09-04-005" : {
+    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 1 | Encruzilhadas da Inovação",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "BeOn HackTown 2023",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 32,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=O3b76dmzq7s",
+    "img" : "https://i.ytimg.com/vi/O3b76dmzq7s/hqdefault.jpg"
+  },
+  "2023-09-04-006" : {
+    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 4 | A Cidade é a Plataforma",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "BeOn HackTown 2023",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 32,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=hYGU8lufxe4",
+    "img" : "https://i.ytimg.com/vi/hYGU8lufxe4/hqdefault.jpg"
+  },
+  "2023-09-04-007" : {
+    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 3 | Claro no mercado de serviço financeiro",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "BeOn HackTown 2023",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 19,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=Q6pJXG0UYmo",
+    "img" : "https://i.ytimg.com/vi/Q6pJXG0UYmo/hqdefault.jpg"
   }
 };
