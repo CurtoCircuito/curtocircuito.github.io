@@ -820,7 +820,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 32,
-    "plataformas" : ["YouTube","Spotify"],
+    "plataformas" : ["YouTube","Spotify","Claro Musica"],
     "link" : "https://www.youtube.com/watch?v=O3b76dmzq7s",
     "img" : "https://i.ytimg.com/vi/O3b76dmzq7s/hqdefault.jpg"
   },
@@ -831,7 +831,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 32,
-    "plataformas" : ["Spotify"],
+    "plataformas" : ["Spotify","Claro Musica"],
     "link" : "https://open.spotify.com/episode/0VZNqYjoZNTBaGMMrmoAMm",
     "img" : "https://i.scdn.co/image/ec8a97c94d495993a4f1e841c08fdabdafb9459e"
   },
@@ -842,18 +842,18 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 19,
-    "plataformas" : ["YouTube","Spotify"],
+    "plataformas" : ["YouTube","Spotify","Claro Musica"],
     "link" : "https://www.youtube.com/watch?v=Q6pJXG0UYmo",
     "img" : "https://i.ytimg.com/vi/Q6pJXG0UYmo/hqdefault.jpg"
   },
   "2023-09-04-008" : {
     "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 4 | A Cidade é a Plataforma",
-    "produtoras" : ["Monking","Claro"],
+    "produtoras" : ["Monking","Claro","Claro Musica"],
     "programa" : "BeOn HackTown 2023",
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 32,
-    "plataformas" : ["YouTube","Spotify"],
+    "plataformas" : ["YouTube","Spotify","Claro Musica"],
     "link" : "https://www.youtube.com/watch?v=hYGU8lufxe4",
     "img" : "https://i.ytimg.com/vi/hYGU8lufxe4/hqdefault.jpg"
   },
