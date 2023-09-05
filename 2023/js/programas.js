@@ -160,7 +160,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-08-18",
     "duracao" : 56,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=WN18-ZLmMo8",
     "img" : "https://i.ytimg.com/vi/WN18-ZLmMo8/hqdefault.jpg"
   },
@@ -358,7 +358,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-08-19",
     "duracao" : 56,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=mraQFK1zzNM",
     "img" : "https://i.ytimg.com/vi/mraQFK1zzNM/hqdefault.jpg"
   },
@@ -534,7 +534,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-08-20",
     "duracao" : 69,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=Hs_LduWDX6s",
     "img" : "https://i.ytimg.com/vi/Hs_LduWDX6s/hqdefault.jpg"
   },
@@ -567,9 +567,20 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-08-22",
     "duracao" : 53,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=kGhZe9j81-A",
     "img" : "https://i.ytimg.com/vi/kGhZe9j81-A/hqdefault.jpg"
+  },
+  "2023-08-23-001" : {
+    "nome" : "BTec no Hacktown SRS 2023",
+    "produtoras" : ["Incubadora BTec"],
+    "programa" : "Talk BTec",
+    "formato" : "audio",
+    "data" : "2023-08-23",
+    "duracao" : 6,
+    "plataformas" : ["Spotify"],
+    "link" : "https://open.spotify.com/episode/2tIy7CtKUGBp20slLxKKZ0",
+    "img" : "https://i.scdn.co/image/ab67656300005f1f5d8f8d797eceae60803eaadc"
   },
   "2023-08-24-001" : {
     "nome" : " Arena de Ideias #117 | Download HackTown SRS 2023 ",
@@ -636,6 +647,17 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=t_5Ae9mTLAU",
     "img" : "https://i.ytimg.com/vi/t_5Ae9mTLAU/hqdefault.jpg"
+  },
+  "2023-08-29-004" : {
+    "nome" : "Futurês #2 - Decodificando o Futuro no Hacktown 2023 de Santa Rita do Sapucaí",
+    "produtoras" : ["Futuros Plurais"],
+    "programa" : "Futurês",
+    "formato" : "audio",
+    "data" : "2023-08-29",
+    "duracao" : 66,
+    "plataformas" : ["Spotify"],
+    "link" : "https://open.spotify.com/episode/2ZKLjWmHtRd0Ba97vI61Li",
+    "img" : "https://i.scdn.co/image/ab67656300005f1fb4478095d12b814870d94416"
   },
   "2023-08-30-001" : {
     "nome" : "Inovação e estratégias com Leandro Ferreira, da MOV Locadora - HackTown 2023",
@@ -798,20 +820,20 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 32,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=O3b76dmzq7s",
     "img" : "https://i.ytimg.com/vi/O3b76dmzq7s/hqdefault.jpg"
   },
   "2023-09-04-006" : {
-    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 4 | A Cidade é a Plataforma",
+    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 2 | Cybersecurity - próximo nível da Inovação",
     "produtoras" : ["Monking","Claro"],
     "programa" : "BeOn HackTown 2023",
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 32,
-    "plataformas" : ["YouTube"],
-    "link" : "https://www.youtube.com/watch?v=hYGU8lufxe4",
-    "img" : "https://i.ytimg.com/vi/hYGU8lufxe4/hqdefault.jpg"
+    "plataformas" : ["Spotify"],
+    "link" : "https://open.spotify.com/episode/0VZNqYjoZNTBaGMMrmoAMm",
+    "img" : "https://i.scdn.co/image/ec8a97c94d495993a4f1e841c08fdabdafb9459e"
   },
   "2023-09-04-007" : {
     "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 3 | Claro no mercado de serviço financeiro",
@@ -820,8 +842,19 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 19,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=Q6pJXG0UYmo",
     "img" : "https://i.ytimg.com/vi/Q6pJXG0UYmo/hqdefault.jpg"
-  }
+  },
+  "2023-09-04-008" : {
+    "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 4 | A Cidade é a Plataforma",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "BeOn HackTown 2023",
+    "formato" : "vídeo",
+    "data" : "2023-09-04",
+    "duracao" : 32,
+    "plataformas" : ["YouTube","Spotify"],
+    "link" : "https://www.youtube.com/watch?v=hYGU8lufxe4",
+    "img" : "https://i.ytimg.com/vi/hYGU8lufxe4/hqdefault.jpg"
+  },
 };
