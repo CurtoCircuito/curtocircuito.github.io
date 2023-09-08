@@ -765,7 +765,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-02",
     "duracao" : 48,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=zyh9MfLSJaA",
     "img" : "https://i.ytimg.com/vi/zyh9MfLSJaA/hqdefault.jpg"
   },
@@ -830,10 +830,10 @@ episodios = {
     "programa" : "BeOn HackTown 2023",
     "formato" : "vídeo",
     "data" : "2023-09-04",
-    "duracao" : 32,
-    "plataformas" : ["Spotify","Claro Musica"],
-    "link" : "https://open.spotify.com/episode/0VZNqYjoZNTBaGMMrmoAMm",
-    "img" : "https://i.scdn.co/image/ec8a97c94d495993a4f1e841c08fdabdafb9459e"
+    "duracao" : 27,
+    "plataformas" : ["Youtube","Spotify","Claro Musica"],
+    "link" : "https://www.youtube.com/watch?v=_L2IsiYZrw8",
+    "img" : "https://i.ytimg.com/vi/_L2IsiYZrw8/hqdefault.jpg"
   },
   "2023-09-04-007" : {
     "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 3 | Claro no mercado de serviço financeiro",
@@ -857,4 +857,59 @@ episodios = {
     "link" : "https://www.youtube.com/watch?v=hYGU8lufxe4",
     "img" : "https://i.ytimg.com/vi/hYGU8lufxe4/hqdefault.jpg"
   },
+  "2023-09-05-001" : {
+    "nome" : "Qual é o papel do Hacktown para a inovação brasileira?",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-05",
+    "duracao" : 32,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=idFVr-y4oqU",
+    "img" : "https://img.youtube.com/vi/idFVr-y4oqU/maxresdefault.jpg"
+  },
+  "2023-09-05-002" : {
+    "nome" : "Como a comunidade de startups está revolucionando o mundo corporativo? — HackTown 2023",
+    "produtoras" : ["Monking","Claro"],
+    "programa" : "Monking no HackTown",
+    "formato" : "vídeo",
+    "data" : "2023-09-05",
+    "duracao" : 35,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=l84h6lJoyDI",
+    "img" : "https://img.youtube.com/vi/l84h6lJoyDI/maxresdefault.jpg"
+  },
+  "2023-09-06-001" : {
+    "nome" : "Aprendizados do HackTown - Hora da Conexão, com Alice Salvo e Cássia Aulisio",
+    "produtoras" : ["Liga dos Inovadores"],
+    "programa" : "Hora da Conexão",
+    "formato" : "vídeo",
+    "data" : "2023-09-06",
+    "duracao" : 68,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=6_xz_hzH1fc",
+    "img" : "https://img.youtube.com/vi/6_xz_hzH1fc/maxresdefault.jpg"
+  },
+  "2023-09-06-002" : {
+    "nome" : "Vinicius Piva Conta como Foi o HackTown",
+    "produtoras" : ["TV Cidade Farroupilha"],
+    "programa" : "Resolvendo Dilemas",
+    "formato" : "vídeo",
+    "data" : "2023-09-06",
+    "duracao" : 28,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=1FHztI_IEmo",
+    "img" : "https://img.youtube.com/vi/1FHztI_IEmo/maxresdefault.jpg"
+  },
+  "2023-09-07-001" : {
+    "nome" : "#38 Construindo um ecossistema de inovação: as experiências da Campinas Tech",
+    "produtoras" : ["Performa_IT","Hyper Island"],
+    "programa" : "Performa.Que.Pod.",
+    "formato" : "vídeo",
+    "data" : "2023-09-07",
+    "duracao" : 49,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=bYxdIfmTLBE",
+    "img" : "https://img.youtube.com/vi/bYxdIfmTLBE/maxresdefault.jpg"
+  }
 };
