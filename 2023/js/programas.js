@@ -831,7 +831,7 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-04",
     "duracao" : 27,
-    "plataformas" : ["Youtube","Spotify","Claro Musica"],
+    "plataformas" : ["YouTube","Spotify","Claro Musica"],
     "link" : "https://www.youtube.com/watch?v=_L2IsiYZrw8",
     "img" : "https://i.ytimg.com/vi/_L2IsiYZrw8/hqdefault.jpg"
   },
@@ -848,7 +848,7 @@ episodios = {
   },
   "2023-09-04-008" : {
     "nome" : "beOn Claro e Monking no HackTown 2023 | Episódio 4 | A Cidade é a Plataforma",
-    "produtoras" : ["Monking","Claro","Claro Musica"],
+    "produtoras" : ["Monking","Claro"],
     "programa" : "BeOn HackTown 2023",
     "formato" : "vídeo",
     "data" : "2023-09-04",
@@ -911,5 +911,16 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=bYxdIfmTLBE",
     "img" : "https://img.youtube.com/vi/bYxdIfmTLBE/maxresdefault.jpg"
+  },
+  "2023-09-11-001" : {
+    "nome" : "[TEMPORADA 2 - Episódio 16] - Insights do HackTown 2023",
+    "produtoras" : ["Somos Curatas"],
+    "programa" : "Videocast Somos Curatas",
+    "formato" : "vídeo",
+    "data" : "2023-09-11",
+    "duracao" : 35,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=11YB8rNGEuc",
+    "img" : "https://img.youtube.com/vi/11YB8rNGEuc/maxresdefault.jpg"
   }
 };
