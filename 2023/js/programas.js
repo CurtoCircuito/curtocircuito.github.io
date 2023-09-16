@@ -881,7 +881,7 @@ episodios = {
   },
   "2023-09-06-001" : {
     "nome" : "Aprendizados do HackTown - Hora da Conexão, com Alice Salvo e Cássia Aulisio",
-    "produtoras" : ["Liga dos Inovadores"],
+    "produtoras" : ["Liga dos Inovadores","Somos Curatas"],
     "programa" : "Hora da Conexão",
     "formato" : "vídeo",
     "data" : "2023-09-06",
@@ -922,5 +922,16 @@ episodios = {
     "plataformas" : ["YouTube"],
     "link" : "https://www.youtube.com/watch?v=11YB8rNGEuc",
     "img" : "https://img.youtube.com/vi/11YB8rNGEuc/maxresdefault.jpg"
+  },
+  "2023-09-14-001" : {
+    "nome" : "#39 Palcos nacionais, conexões globais: Edição Especial HackTown",
+    "produtoras" : ["Performa_IT","Hyper Island"],
+    "programa" : "Performa.Que.Pod.",
+    "formato" : "vídeo",
+    "data" : "2023-09-14",
+    "duracao" : 40,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=J7fq4-EEwRM",
+    "img" : "https://img.youtube.com/vi/J7fq4-EEwRM/maxresdefault.jpg"
   }
 };
