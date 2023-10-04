@@ -652,11 +652,11 @@ episodios = {
     "nome" : "Futurês #2 - Decodificando o Futuro no Hacktown 2023 de Santa Rita do Sapucaí",
     "produtoras" : ["Futuros Plurais"],
     "programa" : "Futurês",
-    "formato" : "audio",
+    "formato" : "vídeo",
     "data" : "2023-08-29",
     "duracao" : 66,
-    "plataformas" : ["Spotify"],
-    "link" : "https://open.spotify.com/episode/2ZKLjWmHtRd0Ba97vI61Li",
+    "plataformas" : ["Spotify","YouTube"],
+    "link" : "https://www.youtube.com/watch?v=PwUwJRoDWYw",
     "img" : "https://i.scdn.co/image/ab67656300005f1fb4478095d12b814870d94416"
   },
   "2023-08-30-001" : {
@@ -930,8 +930,19 @@ episodios = {
     "formato" : "vídeo",
     "data" : "2023-09-14",
     "duracao" : 40,
-    "plataformas" : ["YouTube"],
+    "plataformas" : ["YouTube","Spotify"],
     "link" : "https://www.youtube.com/watch?v=J7fq4-EEwRM",
     "img" : "https://img.youtube.com/vi/J7fq4-EEwRM/maxresdefault.jpg"
+  },
+  "2023-10-03-001" : {
+    "nome" : "HackTown: Uma experiência inesquecível",
+    "produtoras" : ["Claro","Deloitte"],
+    "programa" : "BeOn Claro",
+    "formato" : "vídeo",
+    "data" : "2023-10-03",
+    "duracao" : 21,
+    "plataformas" : ["YouTube","Spotify"],
+    "link" : "https://www.youtube.com/watch?v=8nPqT8p3zSE",
+    "img" : "https://i.ytimg.com/vi/8nPqT8p3zSE/hqdefault.jpg"
   }
 };
