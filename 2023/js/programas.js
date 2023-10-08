@@ -934,6 +934,17 @@ episodios = {
     "link" : "https://www.youtube.com/watch?v=J7fq4-EEwRM",
     "img" : "https://img.youtube.com/vi/J7fq4-EEwRM/maxresdefault.jpg"
   },
+  "2023-10-01-001" : {
+    "nome" : "PrimeSea Web Radar EP10: FanTokens, Friend.Tech, HackTown e mais.",
+    "produtoras" : ["PrimeSea"],
+    "programa" : "Web Radar",
+    "formato" : "vídeo",
+    "data" : "2023-10-01",
+    "duracao" : 16,
+    "plataformas" : ["YouTube"],
+    "link" : "https://www.youtube.com/watch?v=spKrPc2tLRU",
+    "img" : "https://i.ytimg.com/vi/spKrPc2tLRU/hqdefault.jpg"
+  },
   "2023-10-03-001" : {
     "nome" : "HackTown: Uma experiência inesquecível",
     "produtoras" : ["Claro","Deloitte"],
